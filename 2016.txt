@@ -4,3 +4,5 @@ This is my list of goals for 2017!
 - walk more
 new changes for Weds
 more changes for weds
+This is an a test change prior to a push.
+This is the second attempt
